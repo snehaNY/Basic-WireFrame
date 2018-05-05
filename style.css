@@ -79,3 +79,11 @@
     width: 70%;
     clear:both;
   }
+
+@media screen and (max-width:768px){
+    body{
+        font-size: 5px;
+    background: red;
+    color: orange;
+    }
+}
